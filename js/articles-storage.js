@@ -70,7 +70,7 @@
 
     return {
         config: {
-            namespace: 'tivizi/tivizi',
+            namespace: 'briteming/briteming',
             block_size: 20
         },
         backend: {
