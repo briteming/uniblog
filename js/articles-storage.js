@@ -1,4 +1,4 @@
-(function(global, factory){
+f(function(global, factory){
     // for node.js
     if (typeof module === "object" && typeof module.exports === "object") {
         module.exports = {
@@ -70,7 +70,7 @@
 
     return {
         config: {
-            namespace: 'briteming/briteming',
+            namespace: 'briteming/uniblog',
             block_size: 20
         },
         backend: {
